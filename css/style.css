@@ -1,0 +1,57 @@
+
+
+#header-nav a  {
+    color : #fff;
+    font-size: 1.5em;
+}
+toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #7D1935;
+}
+.navbar-default .navbar-toggle .icon-bar  {
+    background-color: #fff;
+
+}
+.nav>li:hover {
+    background-color:rgba(255,255,255,0.4)
+}
+#menu-navbar-collapse li {
+    border: 1px solid  rgba(255,255,255,0.4);
+}
+ul.nav.navbar-nav.navbar-right {
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #4A96AD;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #7D1935;
+}
+#menu-navbar-collapse li {
+    font-size: 1.1em;
+}
+.navbar-default{
+    border-radius: 0; 
+    background-color: #7D1935;
+    border-color: #7D1935;
+}
+#main-content {
+    color: #4A96AD;
+}
+#main-content .row {
+    padding: 10px
+}
+#tekst  {
+    background-color: #F5F3EE;
+    border: 2px solid #7D1935;;
+    padding: 10px 20px 20px;
+    font-size: 1.2em;
+    margin: 10px;
+}
+#tekst h3  {
+    font-size: 1.2em;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
