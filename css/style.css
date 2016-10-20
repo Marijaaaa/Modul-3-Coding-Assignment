@@ -40,7 +40,8 @@ ul.nav.navbar-nav.navbar-right {
     color: #4A96AD;
 }
 #main-content .row {
-    padding: 10px
+    padding: 10px;
+    margin: 0;
 }
 #tekst  {
     background-color: #F5F3EE;
